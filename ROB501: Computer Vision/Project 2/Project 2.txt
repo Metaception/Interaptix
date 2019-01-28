@@ -1,0 +1,11 @@
+Estimate Initial
+
+Homography for pose
+Ignore radial to start
+Principle point at centre
+Focus length is provided by camera
+
+Minimize reprojection error
+Normalize the quarterions
+
+Jacobian should be 800 by 127
